@@ -17,7 +17,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url(https://previews.dropbox.com/p/thumb/ACHjw-QnCI8Nr7XFwxvLy_KRwXmnokVuZArzWX0YXezuTf4AUjtwLzFD9zMlp4fWpF1JegNmFTg_OHU1AddRJI4MHPIDjoTwYhblP4bu0s_dTUeoW8JIHjTeSf_vbhnT9jxW8TEOJLkCDSE6VC2ma8hiV03ZvTZv1PVQU2eOaLPcJZxRVzc1vnmy6hFJfF6CRyIKdzZhfGPKZNaC36eD4iE08KX8wj8vPh9ub81b5W39X8YVdxq6EIEeIvL0l6dsL_STmmFtIAXk8NYfqOAwjaLCf_796pFncAPKB9eBlCBZ_8U2pNg5m62m9LQL6Pfd-gs3SBvcfDojOqAY3vrFXTJY/p.png);
+    background-image: url(./Images/amazon_logo.png);
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -120,7 +120,7 @@ span{
 /* hero section or main section */
 
 .hero-section{
-    background-image: url(https://previews.dropbox.com/p/thumb/ACEe2rqCOR1gICZQ66FF52HES1SXTSils5YkUoqq8j-ipYUUvODBCxnnhNrrcSTyyxryxX8Z6YgPXZcNEcv852fWDgduxxMYlxof4oILoTpAR_zx1dNQdhHCfXivZddu3R6qrTHoi9y_6IRkeTL3MsoxE5V9eg3xe6Opi1nw-MqbcWNC-zfyybTEzHpWbuGIqFjfMLx9ctz-bD5qBDGYzGHtaGoifvy-ciDzz_se0Xm8-z1-3yzUdyzVYjP1oXeVn2BKbiZ2pgytYcaJ6jD64yBOPu4_dV0983PcIcwvDzFnC5ymG9XBm6p92X0MHgi58lFJoTNMM4MXCLvoNgNrJ0NN/p.jpeg);
+    background-image: url(./Images/hero_image.jpg);
     background-size: cover;
     height: 350px;
     display: flex;
@@ -213,7 +213,7 @@ ul a{
 }
 
 .logo{
-    background-image: url(https://previews.dropbox.com/p/thumb/ACHjw-QnCI8Nr7XFwxvLy_KRwXmnokVuZArzWX0YXezuTf4AUjtwLzFD9zMlp4fWpF1JegNmFTg_OHU1AddRJI4MHPIDjoTwYhblP4bu0s_dTUeoW8JIHjTeSf_vbhnT9jxW8TEOJLkCDSE6VC2ma8hiV03ZvTZv1PVQU2eOaLPcJZxRVzc1vnmy6hFJfF6CRyIKdzZhfGPKZNaC36eD4iE08KX8wj8vPh9ub81b5W39X8YVdxq6EIEeIvL0l6dsL_STmmFtIAXk8NYfqOAwjaLCf_796pFncAPKB9eBlCBZ_8U2pNg5m62m9LQL6Pfd-gs3SBvcfDojOqAY3vrFXTJY/p.png);
+    background-image: url(./Images/amazon_logo.png);
     background-size: cover;
     width: 100px;
 }
